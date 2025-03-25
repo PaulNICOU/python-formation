@@ -1,2 +1,2 @@
-# python-formation
+#Python exercise
 Python learning
