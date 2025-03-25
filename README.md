@@ -1,2 +1,1 @@
-#Python exercise
 Python learning
